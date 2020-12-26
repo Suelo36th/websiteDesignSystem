@@ -1,6 +1,7 @@
 body {
     font-family: 'Nunito Sans', sans-serif;
     margin: 0 10%;
+    color: #242423
   }
   
   .container {
@@ -21,22 +22,28 @@ body {
     min-height: 100px;
   }
   
-  .cool-blue {
-    background-color: #2d5dcc;
-    color: #fff;
+  .timberwolf {
+    background-color: #CFDBD5;
+    
   }
   
-  .pink {
-    background-color: #d957d9;
+  .alabaster {
+    background-color: #E8EDDF;
     color: #000;
   }
   
-  .mint-green {
-    background-color: #4fe0b0;
+  .maize-crayola {
+    background-color: #F5CB5C;
   }
   
-  .beige {
-    background-color: #efd9ca;
+  .eerie-black {
+    background-color: #242423;
+    color: #fff;
+  }
+
+  .jet {
+      background-color: #333533;
+      color: #fff;
   }
   
   .font-panel {
